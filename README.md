@@ -1,2 +1,3 @@
-# hdb_bootcamp
-Utilities for bootcamp.
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
